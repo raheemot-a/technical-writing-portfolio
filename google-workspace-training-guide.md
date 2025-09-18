@@ -126,7 +126,7 @@ This guide provides step-by-step instructions for implementing and using Google 
 ## Support Information
 
 **For technical issues:**
-- Email: IT-support@organization.gov
+- Email: [Internal extension]
 - Phone: [Internal extension]
 - Help desk hours: 8:00 AM - 5:00 PM, Monday-Friday
 
